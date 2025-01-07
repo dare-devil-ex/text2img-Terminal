@@ -1,6 +1,6 @@
 # Text2img
 
-This is **Text2img** terminal version
+This is **Text2img Terminal version**
 
 
 ## Features
