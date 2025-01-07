@@ -1,12 +1,12 @@
 # Text2img
 
 This is **Text2img Terminal version**
-
+It works on both **windows and android**
 
 ## Features
 
-- It can download instagram **reels** & **posts** core code of the [@wkan_bot](https://t.me/wkan_bot)
-- Prompt is not necessary for random images
+- It will generates **Ai images** by given prompt
+- We can generates **unlimited images**
 
 # Installation Command
 - Mannual
